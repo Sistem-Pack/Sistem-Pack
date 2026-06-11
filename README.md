@@ -54,8 +54,16 @@ My Language And Tool Stack:
 
 ---
 
-## 💻 Operating Systems & Environment
+## 🧰 IDEs & Environments
 
+### Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/RAD_Studio-F11F25?style=for-the-badge&logo=delphi&logoColor=white" alt="RAD Studio" />
+</p>
+
+### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
