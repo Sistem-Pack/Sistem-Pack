@@ -63,6 +63,16 @@ My Language And Tool Stack:
   <img src="https://img.shields.io/badge/RAD_Studio-F11F25?style=for-the-badge&logo=delphi&logoColor=white" alt="RAD Studio" />
 </p>
 
+### Databases & Serialization
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL_(PL/pgSQL)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+</p>
+
 ### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
