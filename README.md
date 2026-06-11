@@ -87,6 +87,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SSMS-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSMS" />
   <img src="https://img.shields.io/badge/SQL_Profiler-990000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Profiler" />
+  <img src="https://img.shields.io/badge/IBExpert-2B579A?style=for-the-badge&logo=firebird&logoColor=white" alt="IBExpert" />
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
   <img src="https://img.shields.io/badge/DB_Browser_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="DB Browser for SQLite" />
 </p>
