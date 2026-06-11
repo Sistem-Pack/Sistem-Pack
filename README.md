@@ -50,6 +50,7 @@ My Language And Tool Stack:
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="GNU Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/OLE%20%26%20COM-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="COM Connectors" />
 </p>
 
 ---
