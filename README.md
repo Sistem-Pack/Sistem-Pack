@@ -14,7 +14,6 @@ My Language And Tool Stack:
 > Languages and frameworks I use most frequently.
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
@@ -36,6 +35,12 @@ My Language And Tool Stack:
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
 </p>
+
+### Mobile Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FireMonkey_(FMX)-FF5722?style=for-the-badge&logo=delphi&logoColor=white" alt="FMX" />
+</p>  
 
 ### Infrastructure, Monitoring & Scripting
 > Environment setup, containerization, and automation.
